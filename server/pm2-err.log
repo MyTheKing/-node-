@@ -1,0 +1,240 @@
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
+Z:\FE\Node\项目\server\controllers\admin\UserController.js:60
+function definitionSend(result,avatar,res,{username,introduction,gender,avatar}) {
+                                                                        ^^^^^^
+
+SyntaxError: Duplicate parameter name not allowed in this context
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at Hook._require.Module.require (C:\Users\baixiong\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (Z:\FE\Node\项目\server\routes\admin\UserRouter.js:3:24)
